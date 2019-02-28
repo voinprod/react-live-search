@@ -1,0 +1,28 @@
+.formBody {
+    background: #eaeaea;
+    width: 100%;
+    padding: 10px;
+}
+
+.searchBox{
+    width: 300px;
+    margin: 0 auto;
+}
+.searchBox input {
+    outline: 0;
+    border-radius: 3px;
+    border: 1px solid #fff;
+    padding: 5px;
+    font-size: 16px;
+    width: 100%;
+}
+.formTitle{
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+}
+.wordClass{
+    font-family: Tahoma;
+    cursor: pointer;
+    font-size: 18px;
+}
